@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact Info</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; padding: 40px; max-width: 600px; margin: auto; }
+    h1 { color: #333; }
+    p { font-size: 1.1em; line-height: 1.5; }
+    a { display: inline-block; margin-top: 20px; padding: 12px 24px; background: #007bff; color: white; text-decoration: none; border-radius: 6px; font-size: 1.2em; }
+    a:hover { background: #0056b3; }
+  </style>
+</head>
+<body>
+  <h1>About This Project</h1>
+  <p>This is a short description of whatever you want — e.g., "Thanks for scanning! Together we can help support the youth work."</p>
+  
+  <a href="mailto:samfunnsauna@gmail.com?subject=Scanned%20your%20QR%20code&body=Hi%20there!%20I%20just%20scanned%20your%20code%20and%20wanted%20to%20say...">Email me at yourname@example.com</a>
+</body>
+</html>
